@@ -7,8 +7,8 @@ import { Component, OnInit } from '@angular/core';
   styles: [
     `p{
     padding:20px;
-    backgroud: red;
-    border:1pxsolid red
+    background: red;
+    border:1px solid red
   }`,
   ],
 })
